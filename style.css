@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container section img {
+    padding: 4px;
+    border-radius: 10px;
+}
+
+img {
+    width: 220px;
+    height: 320px;
+}
